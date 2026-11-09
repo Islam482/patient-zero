@@ -57,7 +57,7 @@ Claude for understanding
 Milliseconds, average of 3 runs, from `java -cp out Bench`.
 
 | test | size | time |
-|---|[Check.java](tools/Check.java)---|---|
+|---|---|---|
 | naive search | 20 000 / 40 000 / 80 000 | 32.7 / 31.0 / 67.1 |
 | KMP | 20 000 / 40 000 / 80 000 | 2.1 / 1.5 / 0.5 |
 | edit distance | 500 / 1000 / 2000 / 4000 | 5.9 / 9.7 / 25.2 / 96.3 |
